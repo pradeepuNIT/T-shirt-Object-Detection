@@ -26,8 +26,9 @@ Yolov5 object detection
 2. YOLOv5 format dataset folder structure.
 
 
-     dataset
+
      
+    dataset
         - images
           - train
             - img1.jpg
