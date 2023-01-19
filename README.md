@@ -27,8 +27,8 @@ Yolov5 object detection
 
 
 
-     
-    dataset
+     dataset
+    
         - images
           - train
             - img1.jpg
